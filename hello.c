@@ -2,6 +2,6 @@
 int main()
 {
 	printf("I am in Master Branch");
-	printf("I am in Development Branch and I have aaded additonal Changes");
+	printf("Demo of Git rebase");
 	return 0;
 }
