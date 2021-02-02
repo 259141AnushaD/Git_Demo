@@ -1,4 +1,9 @@
 #include <stdio.h>
+int function1()
+{
+    //do nothing
+}
+
 int main()
 {
 	printf("Changes from Developer-1");
@@ -6,7 +11,3 @@ int main()
 	return 0;
 }
 
-int function()
-{
-    //do nothing
-}
