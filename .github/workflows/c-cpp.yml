@@ -18,4 +18,4 @@ jobs:
     - name: list
       run: dir
     - name: Run
-      run: hello.exe
+      run: .\hello.exe
