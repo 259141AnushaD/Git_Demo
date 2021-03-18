@@ -19,3 +19,5 @@ jobs:
       run: dir
     - name: Run
       run: .\hello.exe
+    - name: Make_run
+      run: make run
